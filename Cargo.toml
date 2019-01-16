@@ -1,0 +1,8 @@
+[package]
+name = "peak-jit"
+version = "0.1.0"
+authors = ["playXE <adel.prokurov@protonmail.com>"]
+edition = "2018"
+
+[dependencies]
+capstone = "0.5.0"
